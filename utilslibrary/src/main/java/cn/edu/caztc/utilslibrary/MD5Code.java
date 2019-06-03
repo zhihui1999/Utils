@@ -2,6 +2,7 @@ package cn.edu.caztc.utilslibrary;
 
 /**
  * MD5编码工具类
+ *
  */
 public class MD5Code {
     static final int S11 = 7;
